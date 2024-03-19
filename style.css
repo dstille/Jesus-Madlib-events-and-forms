@@ -1,0 +1,34 @@
+html{height:100%; width: 100%;}
+
+body {color: #dbdb1a; font-size: 30px;
+     background-color: black;
+     background-image: url(yoda.jpg);}
+
+img {display: block; 
+     margin-left: auto; 
+     margin-right: auto; width: 70%;}
+
+h1 {text-align: center;
+  font-size: 100px;
+  font-family: "Brush Script MT", Courier, monospace;
+  color: orange;}
+
+form {margin: 0cap 108cap 5cap 5cap;
+      border: 4px solid #359244;
+      padding: 15px;
+      padding-left: 20px;
+      background-color: #fafafa;
+      color: black; font-size: 15px;
+     }
+
+p {margin: 0cap 5cap 5cap 5cap;
+   border: 4px solid #f29c07;
+   padding: 20px;
+   background-color: #fafafa;
+   color: black; font-size: 15px;
+   font-size: 200px:
+ }
+
+button {margin-left: 5cap;}
+
+script {border: 5px white; border-width: 5px;}
